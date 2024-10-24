@@ -1,0 +1,6 @@
+@KH.AzureAppConfigLab_HostAddress = http://localhost:5095
+
+GET {{KH.AzureAppConfigLab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
